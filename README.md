@@ -10,3 +10,15 @@ To know more about imbalanced data, please follow this link: https://onlinelibra
 
 [2] Susan, Seba, and Amitesh Kumar. "The balancing trick: Optimized sampling of imbalanced datasets—A brief survey of the recent State of the Art." Engineering Reports (2020): e12298.
 
+Caution: only files with *.arff extensions are used in this program.
+
+Method of evaluation:  We have used F-Score for evaluation purposse.
+
+You have to provide training and testing datasets seprately. 
+
+First, execute NCA_Transformation.py to transform these datasets.
+
+After that, execute DST_ML_EkNN.java over these transformed files.
+
+Use, Java 9 and Python 3.6 with Eclipse IDE for execution.
+
