@@ -15,6 +15,7 @@ Method of evaluation:  We have used F-Score for evaluation purposse
 You have to provide training and testing datasets seprately. 
 First, execute NCA_Transformation.py to transform these datasets.
 After that, execute DST_ML_EkNN.java over these transformed files.
+Use, Java 9 and Python 3.6 with Eclipse IDE for execution.
 
 NOTE: Your are free to modify this code and publish it.
 
