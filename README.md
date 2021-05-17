@@ -10,6 +10,8 @@ To know more about imbalanced data, please follow this link: https://onlinelibra
 
 [2] Susan, Seba, and Amitesh Kumar. "The balancing trick: Optimized sampling of imbalanced datasets—A brief survey of the recent State of the Art." Engineering Reports (2020): e12298.
 
+Important !!!!!
+
 Caution: only files with *.arff extensions are used in this program.
 
 Method of evaluation:  We have used F-Score for evaluation purposse.
