@@ -1,5 +1,22 @@
+/*This is an implementation of metric-learning with elite clustering to solve imbalanced data problem.
+If you want to use this in the research work, please site the paper below:
 
+Susan, Seba, and Amitesh Kumar. "DST-ML-EkNN: data space transformation with metric learning and
+elite k-nearest neighbor cluster formation for classification of imbalanced datasets."
+In Advances in Artificial Intelligence and Data Engineering, pp. 319-328. Springer, Singapore, 2021.
 
+link: https://link.springer.com/chapter/10.1007/978-981-15-3514-7_26
+
+Caution: only files with *.arff extensions are used in this program
+
+Method of evaluation:  We have used F-Score for evaluation purposse
+
+You have to provide training and testing datasets seprately. 
+First, execute NCA_Transformation.py to transform these datasets.
+After that, execute DST_ML_EkNN.java over these transformed files.
+
+NOTE: Your are free to modify this code and publish it.
+*/
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
