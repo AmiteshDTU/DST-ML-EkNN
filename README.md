@@ -1,3 +1,12 @@
 # DST-ML-EkNN:Data Space Transformation with Metric Learning and Elite k-Nearest Neighbor Cluster Formation for Classification of Imbalanced Datasets
 
-Most of the real-world datasets suffer from the problem of imbalanced class representation, with some classes having more than sufficient samples, while some other classes are heavily underrepresented. The imbalance in the class distributions of the majority and minority samples renders conventional classifiers like the k-Nearest Neighbor (kNN) classifier ineffective due to the heavy bias toward the majority class. In this paper, we propose to counter the class-imbalance problem by data space transformation of the training set by distance metric learning prior to an enhanced classification phase. The classification phase comprises of partitioning the set of k-Nearest Neighbors of each transformed test sample into two clusters based on their distances from the two extreme members in the set. A majority voting of the training samples within the ‘Elite’ cluster that is closest to the  transformed test sample indicates the label of the test sample. Our proposed method is called Data Space Transformation with Metric Learning and Elite k-Nearest Neighbor cluster formation (DST-ML-EkNN). Extensive experiments on benchmark datasets using a variety of metric learning methods, with comparisons to the state of the art, establish the supremacy of our learning approach for imbalanced datasets.
+This is a smart clustering method which relies on metric learning eg. Neighbourhood Component Analysis (NCA) to solve class imbalanced data problem. To know about it, please follow the link: https://link.springer.com/chapter/10.1007/978-981-15-3514-7_26. Cite our paper, if you are using it in your research work.
+
+The citation of our paper is:
+
+Susan, Seba, and Amitesh Kumar. "DST-ML-EkNN: data space transformation with metric learning and elite k-nearest neighbor cluster formation for classification of imbalanced datasets." In Advances in Artificial Intelligence and Data Engineering, pp. 319-328. Springer, Singapore, 2021.
+
+To know more about imbalanced data, please follow this link: https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.12298. The citation of this survay paper is:
+
+Susan, Seba, and Amitesh Kumar. "The balancing trick: Optimized sampling of imbalanced datasets—A brief survey of the recent State of the Art." Engineering Reports (2020): e12298.
+
