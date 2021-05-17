@@ -1,4 +1,4 @@
-# DST-ML-EkNN: Data Space Transformation with Metric Learning and Elite k-Nearest Neighbor Cluster Formation for Classification of Imbalanced Datasets
+# DST-ML-EkNN
 
 This is a smart clustering method which relies on metric learning eg. Neighbourhood Component Analysis (NCA) to solve class imbalanced data problem. To know about it, please follow the link: https://link.springer.com/chapter/10.1007/978-981-15-3514-7_26. Cite our paper, if you are using it in your research work.
 
