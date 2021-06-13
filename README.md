@@ -6,13 +6,13 @@ The citation of our paper is:
 
 [1] Susan, Seba, and Amitesh Kumar. "DST-ML-EkNN: data space transformation with metric learning and elite k-nearest neighbor cluster formation for classification of     imbalanced datasets." In Advances in Artificial Intelligence and Data Engineering, pp. 319-328. Springer, Singapore, 2021.
 
-For Reading Free PDF, you can get it at: https://www.researchgate.net/publication/343657145_DST-ML-EkNN_Data_Space_Transformation_with_Metric_Learning_and_Elite_k-Nearest_Neighbor_Cluster_Formation_for_Classification_of_Imbalanced_Datasets
+For reading free PDF, you can get it at: https://www.researchgate.net/publication/343657145_DST-ML-EkNN_Data_Space_Transformation_with_Metric_Learning_and_Elite_k-Nearest_Neighbor_Cluster_Formation_for_Classification_of_Imbalanced_Datasets
 
 To know more about imbalanced data, please follow this link: https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.12298. The citation of this paper is:
 
 [2] Susan, Seba, and Amitesh Kumar. "The balancing trick: Optimized sampling of imbalanced datasets—A brief survey of the recent State of the Art." Engineering Reports 3, no. 4 (2021): e12298.
 
-For Reading Free PDF, you can get it at: https://www.researchgate.net/publication/344781218_The_balancing_trick_Optimized_sampling_of_imbalanced_datasets-A_brief_survey_of_the_recent_State_of_the_Art
+For reading free PDF, you can get it at: https://www.researchgate.net/publication/344781218_The_balancing_trick_Optimized_sampling_of_imbalanced_datasets-A_brief_survey_of_the_recent_State_of_the_Art
 
 Important !!!!!
 
